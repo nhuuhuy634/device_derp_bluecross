@@ -24,7 +24,7 @@ PRODUCT_VENDOR_PROPERTIES += \
     dalvik.vm.image-dex2oat-threads=8
 
 # Camera
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     PXcamPrebuilt
 
 # Dex to make OTA go faster
